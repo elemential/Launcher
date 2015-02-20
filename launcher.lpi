@@ -33,7 +33,7 @@
         <PackageName Value="LCL"/>
       </Item1>
     </RequiredPackages>
-    <Units Count="2">
+    <Units Count="7">
       <Unit0>
         <Filename Value="launcher.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -46,6 +46,31 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit1"/>
       </Unit1>
+      <Unit2>
+        <Filename Value="linifiles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LIniFiles"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="ltypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LTypes"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="lposition.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LPosition"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="lsize.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LSize"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="lnet.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LNet"/>
+      </Unit6>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
