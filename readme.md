@@ -7,7 +7,18 @@ This app provides offline apps from the elemential websites. This app will be ab
 - uninstall, when neccesary
 
 ##Apps Included
-|-------------------------|--------------------------------|----|
-|h                        |btext                           |ctex|
-|df                       |btext                           |ctex|
-|bdfbdfbdfbfb             |dshdhjdflh                      |ctex|
+| name                      | link                             | type |
+| ------------------------- | -------------------------------- | ---- |
+| Polyfome  | elemential.net/polyfome/test  | API/apps |
+| LAPIS  | elemential.net/lapis  | API |
+| Rombo*  | elemential.net/rombo  | games |
+| EChat  | elemential.net/polyfome/chat  | app |
+| LoH  | **TBA**  | games |
+| Polyfome  | elemential.net/polyfome/test  | API/apps |
+| Report+  | elemential.net/report  | reporting |
+| TapCalk  | elemential.net/rontap/tapcalk.html  | calculator |
+| Random  | elemential.net/rontap/random.html  | tools |
+| VPGsites  | elemential.net/vpg/vpg  | blog |
+| Mine  | elemential.net/rontap/mine.html  | games |
+| CryptoBlog  | elemential.net/cryptoblog  | API |
+| XOutube/EMP  | elemential.net/xoutube  | online tools |
