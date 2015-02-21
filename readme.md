@@ -7,7 +7,7 @@ This app provides offline apps from the elemential websites. This app will be ab
 - uninstall, when neccesary
 
 ##Apps Included
--------------------------|--------------------------------|----|
-h                        |btext                           |ctex|
-df                       |btext                           |ctex|
-bdfbdfbdfbfb             |dshdhjdflh                      |ctex|
+|-------------------------|--------------------------------|----|
+|h                        |btext                           |ctex|
+|df                       |btext                           |ctex|
+|bdfbdfbdfbfb             |dshdhjdflh                      |ctex|
