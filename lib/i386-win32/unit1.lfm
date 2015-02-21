@@ -1,9 +1,0 @@
-object Form1: TForm1
-  Left = 243
-  Height = 240
-  Top = 113
-  Width = 320
-  Caption = 'Elemential launcher'
-  OnCreate = FormCreate
-  LCLVersion = '1.2.6.0'
-end
